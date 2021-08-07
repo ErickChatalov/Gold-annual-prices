@@ -1,0 +1,72 @@
+1. Dados do preço ouro por mês de 02/1979 até 07/2021.
+    
+ 1 Troy Ounce = 31.1034768 grams
+
+https://www.investing.com/commodities/gold-historical-data
+
+2. Dados inflação mundial de 1981 até 2021.
+
+https://www.macrotrends.net/countries/WLD/world/inflation-rate-cpi
+
+3. GDP mundial de 1971 até 2021.
+
+https://www.macrotrends.net/countries/WLD/world/gdp-gross-domestic-product
+
+4. GDP Growth Rate de 1979 até 2021.
+
+https://www.macrotrends.net/countries/WLD/world/gdp-growth-rate
+
+5. inflation expectations (USA). 
+
+https://www.clevelandfed.org/our-research/indicators-and-data/inflation-expectations/background-and-resources.aspx
+
+ Power Point aula sobre inflação, formulas de CPI e inflation.
+
+https://www.imf.org/external/region/tlm/rr/pdf/Nov3.pdf
+
+6. Economic data:
+
+    sites : https://www.cnet.com/how-to/10-sites-that-help-you-track-the-economy/
+
+    data.WorldBank.org
+    
+7. 10 year treasury Rate (Interest Rate).
+
+    https://www.macrotrends.net/2016/10-year-treasury-bond-rate-yield-chart
+    
+   5 year treasury rate (interest rate).
+   
+   https://www.macrotrends.net/2522/5-year-treasury-bond-rate-yield-chart
+
+
+8. Why We Should Account for Inflation:
+
+https://hbr.org/1977/09/why-we-should-account-for-inflation
+
+9. Gold futures:
+
+https://investingnews.com/daily/resource-investing/precious-metals-investing/gold-investing/what-are-gold-futures/
+
+10. VIX (Cboe volatility Index):
+
+https://finance.yahoo.com/quote/%5EVIX/history?period1=631238400&period2=1627603200&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
+
+-------------------------------------------------------------------------------------------
+
+Gold prices are adjusted to inflation, maybe it would be better to remove the inflation from the future models. 
+
+Commodity prices and Demand - World GDP, World GDP gross domestic product.
+Commodity prices and Interest Rate - 10 year treasury rate.
+commodity prices and Financial Variables - VIX.
+Commodity prices and Inflation - world inflation rate.
+Commodity prices and Supply - ...
+
+
+------------------------------------------------------------------------------------------
+Pesquisa:
+
+1. Partial-correlation-vs-conditional-mutual-information:
+
+https://towardsdatascience.com/partial-correlation-vs-conditional-mutual-information-c7feffa9b88e
+
+
