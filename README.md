@@ -26,4 +26,4 @@ The dependent variables try to emulate some of the financial market ecosystem, t
 
 4. __Commodity Prices and Financial Variables:__ MSCI indexes are used as a reflexion of the financial markets, companies from emerging(MSCI emerging markets) and developed countries(MSCI world index).
 
-![Image of fitted and atual observations](https://github.com/ErickChatalov/Gold-annual-prices-prediction/images/fitted_vs_actual_observations.png)
+<img src="https://github.com/ErickChatalov/Gold-annual-prices-prediction/tree/main/images/fitted_vs_actual_observations.png" alt="My cool logo"/>
