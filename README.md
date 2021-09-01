@@ -26,4 +26,4 @@ The dependent variables try to emulate some of the financial market ecosystem, t
 
 4. __Commodity Prices and Financial Variables:__ MSCI indexes are used as a reflexion of the financial markets, companies from emerging(MSCI emerging markets) and developed countries(MSCI world index).
 
-![Image of fitted and atual observations](http://lmsotfy.com/so.png)
+![Image of fitted and atual observations](http://lmsotfy.com/fitted_vs_actual_observations.png)
