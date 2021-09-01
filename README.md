@@ -25,5 +25,3 @@ The dependent variables try to emulate some of the financial market ecosystem, t
 3. __Inflation Expectation:__ there are two variables that are determinants of inflation expectation, 5-year for the medium and 10-year for the long expectancies. Commodities are often portrayed as a real hedge against inflation risk so this two variables are important for the model.  
 
 4. __Commodity Prices and Financial Variables:__ MSCI indexes are used as a reflexion of the financial markets, companies from emerging(MSCI emerging markets) and developed countries(MSCI world index).
-
-<img src="https://github.com/ErickChatalov/Gold-annual-prices-prediction/tree/main/images/fitted_vs_actual_observations.png" alt="My cool logo"/>
