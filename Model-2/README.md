@@ -1,4 +1,4 @@
 <div>
-    <img src="./images/image10.jpg">
+    <img src="./images/image10.jpg" style="float: left;">
 </div>
 
