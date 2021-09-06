@@ -30,6 +30,8 @@
 <p>For a better decision toward which model is the best for the data we have, it was useful to make two models, one without the MSCI_WM and one with that same variable.
 </p>
 <img src="./images/image12.jpg" style="margin: auto;display: block;">
+<p>Comparing the models, we don't get a big difference between the two. they both have similar values of R-squared and adjusted R-squared, in either case we reject the null hypothesis and the model fits the data better than the intercept-only model. The main difference between the two is the AIC and the MSE and RMSE,  
+</p>
 
 
 
