@@ -14,8 +14,9 @@
 
 <div>
     <div>
-        <p><img src="./images/image10.jpg" style="float: right;">The dependent variable that the model was created around is the Gold annual average price in dollars, as you can see in the graph in the right the price have a positive trend with a correction in 2015 and an increase in the following years.
+        <p>The dependent variable that the model was created around is the Gold annual average price in dollars, as you can see in the graph in the right the price have a positive trend with a correction in 2015 and an increase in the following years.
         </p>
+        <img src="./images/image10.jpg" style="float: right;">
     </div>
 </div>
 
