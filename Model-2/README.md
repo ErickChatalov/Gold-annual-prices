@@ -30,11 +30,12 @@
 <p>For a better decision toward which model is the best for the data we have, it was useful to make two models, one without the MSCI_WM and one with that same variable.
 </p>
 <img src="./images/image12.jpg" style="margin: auto;display: block;">
-<p>Comparing the models, we don't get a big difference between the two. they both have similar values of R-squared and adjusted R-squared, in either case we reject the null hypothesis and the model fits the data better than the intercept-only model. The main difference between the two is the AIC and the MSE and RMSE, in both cases the model with the MSCI_WN have the lowest values, so the model was a better fit, lower AIC, and better forecast, lower RMSE. from now on the model that will be used it the model with the MSCI_WN. 
+<p>Comparing the models, we don't get a big difference between the two. they both have similar values of R-squared and adjusted R-squared, in either case we reject the null hypothesis and the model fits the data better than the intercept-only model. The main difference between the two is the AIC and the MSE and RMSE, in both cases, the model with the MSCI_WN have the lowest values, so the model has a better fit, lower AIC, and better forecast, lower RMSE. from now on the model that will be used it the residual analysis is the model with the MSCI_WN. 
 </p>
-<p style="margin: 5px">Using the model predicted and observed values for a simple visualization between the two, it was interesting to make a graph using them both, so below is a figure of the comparison.
+<p style="margin: 5px">Using the model predicted and observed values for a simple visualization between the two, it was interesting to make a graph using them both, so below is a figure of the comparison:
 </p>
 <img src="./images/image1.jpg" style="margin: auto;display: block;">
+<p>The model  have a R-squared of 0.991, so 99.1% of the variability of the gold prices are explained by the model. When we observe the graph above the predicted values have a small difference from the observed.
+</p>
 
-
-
+## Residual Analysis and Independence:
