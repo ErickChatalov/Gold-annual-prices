@@ -13,23 +13,11 @@
 ## Dependent and Independent Variables.
 
 <div>
-    <div style="--bs-gutter-x: 1.5rem;
-    --bs-gutter-y: 0;
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: calc(var(--bs-gutter-y) * -1);
-    margin-right: calc(var(--bs-gutter-x) * -.5);
-    margin-left: calc(var(--bs-gutter-x) * -.5);">
-        <p style="flex: 0 0 auto;
-    width: 66.66666667%;">The dependent variable that the model was created around is the Gold annual average price in dollars, as you can see in the graph in the right the price have a positive trend with a correction in 2015 and an increase in the following years.
+    <div>
+        <p>The dependent variable that the model was created around is the Gold annual average price in dollars, as you can see in the graph in the right the price have a positive trend with a correction in 2015 and an increase in the following years.
         </p>
-        <img src="./images/image10.jpg" style="flex: 0 0 auto;
-    width: 33.33333333%;">
+        <img src="./images/image10.jpg" style="margin: auto;display: block;">
     </div>
 </div>
 
-<div style="display: flex;flex-flow: row wrap">
-    <div>erick</div>
-    <div>erick</div>
-</div>
 
