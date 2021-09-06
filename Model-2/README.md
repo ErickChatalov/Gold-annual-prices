@@ -18,7 +18,7 @@
 <p>So we can use all the variables in the model, it is necessary a linear relation between the dependent variable and all the independent variables. 
 </p>
 <img src="./images/image5.jpg" style="margin: auto;display: block;">
-<img src="./images/image4.jpg" style="margin: auto;display: block;">
+<img src="./images/image4.JPG" style="margin: auto;display: block;">
 <p>When we test for linearity, using the multiple scatterplot, it is possible to see a linearity with almost all variables, but the MSCI's variables do not seem  to have as clear of a linearity compared with the others. 
 </p>
 
