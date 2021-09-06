@@ -12,11 +12,10 @@
 
 ## Dependent and Independent Variables.
 
-<div>
-    <div>
-        <p>The dependent variable that the model was created around is the Gold annual average price in dollars, as you can see in the graph in the right the price have a positive trend with a correction in 2015 and an increase in the following years.
-        </p>
-    </div>
-</div>
+<p>The dependent variable that the model was created around is the Gold annual average price in dollars, as you can see in the graph below the price have a positive trend with a correction in 2015 and an increase in the following years.
+</p>
 <img src="./images/image10.jpg" style="margin: auto;display: block;">
+<p>
+</p>
+
 
