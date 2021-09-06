@@ -38,4 +38,11 @@
 <p>The model  have a R-squared of 0.991, so 99.1% of the variability of the gold prices are explained by the model. When we observe the graph above the predicted values have a small difference from the observed.
 </p>
 
-## Residual Analysis and Independence:
+## Residual Analysis, Independence and Normaliy:
+
+<img src="./images/image6.jpg" style="margin: auto;display: block;">
+<img src="./images/image7.jpg" style="margin: auto;display: block;">
+<img src="./images/image7_part2.jpg" style="margin: auto;display: block;">
+
+<p>
+</p>
