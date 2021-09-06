@@ -29,7 +29,7 @@
 
 <p>For a better decision toward which model is the best for the data we have, it was useful to make two models, one without the MSCI_WM and one with that same variable.
 </p>
-<img src="./images/image11.jpg" style="margin: auto;display: block;">
+<img src="./images/image12.jpg" style="margin: auto;display: block;">
 
 
 
