@@ -18,6 +18,8 @@
 <p>So we can use all the variables in the model, it is necessary a linear relation between the dependent variable and all the independent variables and for outliers.
 </p>
 <img src="./images/image3.jpg" style="margin: auto;display: block;">
+<p>Most of the variables don't have outliers, except the MSCI Emerging markets where there is one, that correspond to the 2004 observation. Removing this outlier don't seem to be the best decision, due to the size of the sample.  
+</p>
 <img src="./images/image5.jpg" style="margin: auto;display: block;">
 <img src="./images/image4.JPG" style="margin: auto;display: block;">
 <p>When we test for linearity, using the multiple scatterplot, it is possible to see a linearity with almost all variables, but the MSCI's variables do not seem  to have as clear of a linearity compared with the others. The MSCI_EM variable is a more realiable for the the variance of the gold average prices than the MSCI_WN, at least in this time frame of 2004-2020. The rest of the variables seems to have a high correlation with the dependent variable.
