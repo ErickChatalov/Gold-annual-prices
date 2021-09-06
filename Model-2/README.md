@@ -9,7 +9,9 @@
         <img src="./images/image2.jpg">
     </div>
 </div>
+
 ## Dependent and Independent Variables.
+
 <div>
     <div>
         <div>
