@@ -38,13 +38,21 @@
 <p>The model  have a R-squared of 0.991, so 99.1% of the variability of the gold prices are explained by the model. When we observe the graph above the predicted values have a small difference from the observed.
 </p>
 
-## Homoscedasicity and Independence:
+## Residual Analysis:
 
-<img src="./images/image6.jpg" style="margin: auto;display: block">
-<p>y Using a scatterplot with the residuals against the dependent variable, we can see that the residuals don't seem to have any especific pattern.   
+### Homoscedasicity and Independence:
+
+<img src="./images/image13.jpg" style="margin: auto;display: block">
+<p>Using a scatterplot with the residuals against the dependent variable, we can see that the residuals don't seem to have any especific pattern. The error apear to be constant along the values of the dependent variable.  
 </p>
-<img src="./images/image7.jpg" style="margin: auto;display: block;">
-<img src="./images/image7_part2.jpg" style="margin: auto;display: block;">
+<img src="./images/image7.jpg">
+<img src="./images/image7_part2.jpg">
+<p> The residuals vs the independent values appear to be independent  
+</p>
 
-<p>So   
+### Normality:
+
+<img src="./images/image8.jpg">
+<img src="./images/image14.jpg">
+<p>Using a qqplot we can see that the residuals follow the red line and the normality tests(shapiro-wilk and kolmogorov) show that the standardized residuals are normally distributed, we don't reject the null hypothesis for the shapiro-wilk, so for alpha equal to 0.05 the standardized residuals are normally distributed. The kolmogorov we dont reject the null hypothesis with p-value equal to 0.7506071234246195 so for alpha equal to 0.05 the 2 samples are drawn from the same continuous distribution. the Anderson-Darling test also indicate a normality in the residuals.
 </p>
