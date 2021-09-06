@@ -12,10 +12,13 @@
 
 ## Dependent and Independent Variables.
 
-<p>The dependent variable that the model was created around is the Gold annual average price in dollars, as you can see in the graph below the price have a positive trend with a correction in 2015 and an increase in the following years.
+<p>The dependent variable of this model was created around the Gold annual average price in dollars, as you can see in the graph below the price have a positive trend with a correction in 2015 and an increase in the following years.
 </p>
 <img src="./images/image10.jpg" style="margin: auto;display: block;">
-<p>
+<p>So we can use all the variables in the model, it is necessary a linear relation between the dependent variable and all the independent variables. 
+</p>
+<img src="./images/image5.jpg" style="margin: auto;display: block;">
+<p>When we test for linearity, using the multiple scatterplot of the dependent variable against all the independent variables, it is possible to see a linearity with almost all variables, but the MSCI's variables do not seem  to have as clear of a linearity compared with the others. 
 </p>
 
 
