@@ -25,6 +25,11 @@
 <p>When we test for linearity, using the multiple scatterplot, it is possible to see a linearity with almost all variables, but the MSCI's variables do not seem  to have as clear of a linearity compared with the others. The MSCI_EM variable is a more realiable for the the variance of the gold average prices than the MSCI_WN, at least in this time frame of 2004-2020. The rest of the variables seems to have a high correlation with the dependent variable.
 </p>
 
+## Multicollinearity in Linear Regression:
+
+Multicollinearity may not be a problem every time, if you care more about how much each individual feature rather than a group of features affects the target variable and if multicollinearity is not present in the features you are interested in.
+In this dataset the multicollinearity won't be addressed, because the it is more important the affect of all the variables in the gold prices, but i'm sure that  the analysis of each individual feature would be a good option for this kinda of variables. 
+
 ## Model Fits and Regression Analysis.
 
 <p>For a better decision toward which model is the best for the data we have, it was useful to make two models, one without the MSCI_WM and one with that same variable.
@@ -54,5 +59,13 @@
 
 <img src="./images/image8.jpg">
 <img src="./images/image14.jpg">
-<p>Using a qqplot we can see that the residuals follow the red line and the normality tests(shapiro-wilk and kolmogorov) show that the standardized residuals are normally distributed, we don't reject the null hypothesis for the shapiro-wilk, so for alpha equal to 0.05 the standardized residuals are normally distributed. The kolmogorov we dont reject the null hypothesis with p-value equal to 0.7506071234246195 so for alpha equal to 0.05 the 2 samples are drawn from the same continuous distribution. the Anderson-Darling test also indicate a normality in the residuals.
+<p>Using a qqplot we can see that the residuals follow the red line and the normality tests(shapiro-wilk and kolmogorov) show that the standardized residuals are normally distributed, we don't reject the null hypothesis for the shapiro-wilk, so for alpha equal to 0.05 the standardized residuals are normally distributed. The kolmogorov we dont reject the null hypothesis with p-value equal to 0.7506071234246195 so for alpha equal to 0.05 the 2 samples are drawn from the same continuous distribution. the Anderson-Darling test also indicate a normality in the residuals. 
 </p>
+
+### Leverage and Influencial Points:
+
+<img src="./images/image15.jpg">
+<img src="./images/image16.jpg">
+<p></p>
+
+
