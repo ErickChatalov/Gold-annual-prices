@@ -66,6 +66,6 @@ In this dataset the multicollinearity won't be addressed, because the it is more
 
 <img src="./images/image15.jpg">
 <img src="./images/image16.jpg">
-<p></p>
+<p>There seems to be a point with high leverage and influence, but some of the other values have high leverage. Surely this big values be consoant to the small sample that it is used.</p>
 
 
